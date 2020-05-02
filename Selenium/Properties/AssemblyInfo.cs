@@ -8,11 +8,11 @@ using Selenium.Internal;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Selenium .Net/COM binding")]
+[assembly: AssemblyTitle("Selenium .Net 4/COM binding")]
 [assembly: AssemblyDescription("Selenium Type Library")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Florent BREHERET")]
-[assembly: AssemblyProduct("SeleniumBasic")]
+[assembly: AssemblyProduct("SeleniumBasic 4")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyURL(@"https://github.com/florentbr/SeleniumBasic")]
 [assembly: AssemblyTrademark("")]
@@ -36,9 +36,9 @@ using Selenium.Internal;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.0.9.0")]
-[assembly: AssemblyFileVersion("2.0.9.0")]
-[assembly: TypeLibVersion(2, 0)]
+[assembly: AssemblyVersion("4.0.9.0")]
+[assembly: AssemblyFileVersion("4.0.9.0")]
+[assembly: TypeLibVersion(4, 0)]
 
 [assembly: NeutralResourcesLanguage("en-US")]
 
